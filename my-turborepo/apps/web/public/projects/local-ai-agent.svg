@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="16" x2="590" y2="352" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#21382D"/>
+      <stop offset="1" stop-color="#7D9A48"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="390" y1="87" x2="524" y2="266" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E7F8B9"/>
+      <stop offset="1" stop-color="#A6C96A"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h640v360H0z"/>
+  <circle cx="548" cy="25" r="125" fill="#DFF8A9" opacity=".09"/>
+  <circle cx="59" cy="338" r="145" fill="#C9F466" opacity=".1"/>
+  <rect x="43" y="40" width="554" height="280" rx="18" fill="#F5F4EB"/>
+  <rect x="43" y="40" width="554" height="37" rx="18" fill="#E8EADC"/>
+  <path d="M43 59v18h554V59" fill="#E8EADC"/>
+  <circle cx="67" cy="59" r="4" fill="#D5869B"/>
+  <circle cx="82" cy="59" r="4" fill="#E3B45A"/>
+  <circle cx="97" cy="59" r="4" fill="#82B790"/>
+  <rect x="67" y="99" width="306" height="190" rx="11" fill="#fff"/>
+  <circle cx="91" cy="123" r="12" fill="#EAF3D8"/>
+  <path d="M86 123h10m-5-5v10" stroke="#668D46" stroke-width="1.5" stroke-linecap="round"/>
+  <rect x="112" y="117" width="83" height="6" rx="3" fill="#7F8B78"/>
+  <rect x="91" y="148" width="239" height="36" rx="9" fill="#F1F4E9"/>
+  <text x="105" y="170" fill="#56634F" font-family="Arial,sans-serif" font-size="10">Summarize the main ideas in my PDF</text>
+  <rect x="106" y="199" width="245" height="73" rx="9" fill="#F7F4E9"/>
+  <circle cx="124" cy="218" r="8" fill="#C9F466"/>
+  <path d="m121 218 2 2 4-5" stroke="#40553B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="141" y="214" width="185" height="5" rx="2.5" fill="#75806F"/>
+  <rect x="122" y="232" width="204" height="5" rx="2.5" fill="#BBC1B4"/>
+  <rect x="122" y="246" width="169" height="5" rx="2.5" fill="#BBC1B4"/>
+  <text x="122" y="265" fill="#77905E" font-family="Arial,sans-serif" font-size="8">AI-Notes.pdf · page 3</text>
+  <rect x="397" y="99" width="175" height="190" rx="11" fill="#fff"/>
+  <circle cx="484" cy="177" r="57" fill="url(#glow)"/>
+  <rect x="458" y="151" width="52" height="45" rx="12" fill="#304633"/>
+  <circle cx="473" cy="170" r="4" fill="#C9F466"/>
+  <circle cx="495" cy="170" r="4" fill="#C9F466"/>
+  <path d="M473 184c6 6 16 6 22 0M484 151v-12m-32 76-8 10m72-10 8 10" stroke="#304633" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="484" cy="137" r="4" fill="#C9F466"/>
+  <rect x="424" y="240" width="121" height="6" rx="3" fill="#8B9683"/>
+  <rect x="437" y="254" width="95" height="5" rx="2.5" fill="#C6CCBD"/>
+  <text x="417" y="306" fill="#496042" font-family="Arial,sans-serif" font-size="9" letter-spacing="1.3">LOCAL · PRIVATE · GROUNDED</text>
+</svg>

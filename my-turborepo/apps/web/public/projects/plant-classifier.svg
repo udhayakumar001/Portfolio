@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="52" y1="21" x2="586" y2="346" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#482E1F"/>
+      <stop offset="1" stop-color="#B56B3C"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="277" y1="103" x2="387" y2="264" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D7F08B"/>
+      <stop offset="1" stop-color="#5B9657"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h640v360H0z"/>
+  <circle cx="87" cy="51" r="133" fill="#F2C99B" opacity=".1"/>
+  <circle cx="562" cy="349" r="154" fill="#C9F466" opacity=".12"/>
+  <rect x="44" y="41" width="552" height="278" rx="18" fill="#FCF5E9"/>
+  <rect x="66" y="62" width="245" height="236" rx="12" fill="#E5EAD8"/>
+  <path d="M92 263c49-46 89-99 159-173" stroke="#56764C" stroke-width="5" stroke-linecap="round"/>
+  <path d="M125 232c-36-25-45-53-36-75 28 2 49 18 55 43 2 10-5 23-19 32Zm43-48c-16-39-9-67 11-82 23 15 33 39 24 63-4 10-18 17-35 19Zm34-34c6-39 24-60 49-63 14 23 13 48-5 66-8 8-24 8-44-3Zm-92 70c-39 3-62-11-70-35 19-18 44-23 65-10 9 6 13 21 5 45Zm87-88c-2-37 12-60 35-68 19 19 23 43 11 64-6 9-21 13-46 4Z" fill="url(#leaf)" stroke="#537649" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="m118 239 34-36m29-26 27-39m-73 70-47-45m113 16 34-50m-72 88 64-29" stroke="#F5F0D9" stroke-opacity=".78" stroke-width="2" stroke-linecap="round"/>
+  <rect x="333" y="62" width="240" height="236" rx="12" fill="#fff"/>
+  <rect x="356" y="86" width="102" height="7" rx="3.5" fill="#453326"/>
+  <rect x="356" y="103" width="155" height="5" rx="2.5" fill="#C9BFB0"/>
+  <circle cx="453" cy="179" r="49" stroke="#E7E1D6" stroke-width="12"/>
+  <path d="M453 130a49 49 0 1 1-44.3 69.8" stroke="#73A45D" stroke-width="12" stroke-linecap="round"/>
+  <text x="453" y="177" fill="#453326" font-family="Arial,sans-serif" font-size="19" font-weight="700" text-anchor="middle">96%</text>
+  <text x="453" y="193" fill="#8A8277" font-family="Arial,sans-serif" font-size="8" letter-spacing="1" text-anchor="middle">MATCH</text>
+  <rect x="356" y="246" width="193" height="29" rx="8" fill="#EFF4E9"/>
+  <circle cx="372" cy="260" r="5" fill="#73A45D"/>
+  <text x="384" y="263" fill="#52684A" font-family="Arial,sans-serif" font-size="9" letter-spacing=".5">SPECIES IDENTIFIED</text>
+</svg>
