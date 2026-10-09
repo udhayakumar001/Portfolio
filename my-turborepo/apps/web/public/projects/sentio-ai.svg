@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="37" y1="19" x2="594" y2="349" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#211936"/>
+      <stop offset="1" stop-color="#7259AC"/>
+    </linearGradient>
+    <linearGradient id="chart" x1="172" y1="226" x2="514" y2="139" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C9F466"/>
+      <stop offset="1" stop-color="#BCA8FF"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h640v360H0z"/>
+  <circle cx="563" cy="61" r="125" fill="#D4C8FF" opacity=".09"/>
+  <circle cx="51" cy="337" r="140" fill="#C9F466" opacity=".08"/>
+  <rect x="45" y="39" width="550" height="282" rx="18" fill="#F8F6F2"/>
+  <path fill="#EEEAF5" d="M45 57a18 18 0 0 1 18-18h514a18 18 0 0 1 18 18v26H45V57Z"/>
+  <circle cx="68" cy="62" r="4" fill="#D5869B"/>
+  <circle cx="83" cy="62" r="4" fill="#E3B45A"/>
+  <circle cx="98" cy="62" r="4" fill="#82B790"/>
+  <rect x="69" y="104" width="108" height="10" rx="5" fill="#2C2638"/>
+  <rect x="69" y="123" width="185" height="6" rx="3" fill="#C8C2D0"/>
+  <rect x="69" y="151" width="211" height="137" rx="10" fill="#fff"/>
+  <rect x="298" y="151" width="273" height="137" rx="10" fill="#fff"/>
+  <text x="87" y="174" fill="#797184" font-family="Arial,sans-serif" font-size="9" letter-spacing="1">SENTIMENT OVERVIEW</text>
+  <path d="M91 250c22-5 24-38 48-34s24 25 47 16 24-46 47-36 24 30 38 20" stroke="url(#chart)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M91 263h166M91 225h166M91 187h166" stroke="#E9E5ED" stroke-width="1"/>
+  <circle cx="127" cy="211" r="5" fill="#C9F466" stroke="#fff" stroke-width="2"/>
+  <circle cx="187" cy="232" r="5" fill="#BCA8FF" stroke="#fff" stroke-width="2"/>
+  <circle cx="233" cy="196" r="5" fill="#C9F466" stroke="#fff" stroke-width="2"/>
+  <text x="317" y="174" fill="#797184" font-family="Arial,sans-serif" font-size="9" letter-spacing="1">AI SUMMARY</text>
+  <rect x="318" y="189" width="219" height="8" rx="4" fill="#DCD7E3"/>
+  <rect x="318" y="205" width="198" height="8" rx="4" fill="#DCD7E3"/>
+  <rect x="318" y="221" width="222" height="8" rx="4" fill="#DCD7E3"/>
+  <rect x="318" y="237" width="152" height="8" rx="4" fill="#DCD7E3"/>
+  <rect x="318" y="260" width="74" height="17" rx="8.5" fill="#EBF5D7"/>
+  <circle cx="331" cy="268.5" r="3" fill="#77A64F"/>
+  <text x="340" y="272" fill="#557841" font-family="Arial,sans-serif" font-size="8">POSITIVE</text>
+  <circle cx="544" cy="110" r="16" fill="#C9F466"/>
+  <path d="M537 110h14m-7-7v14" stroke="#2C2638" stroke-width="2" stroke-linecap="round"/>
+</svg>

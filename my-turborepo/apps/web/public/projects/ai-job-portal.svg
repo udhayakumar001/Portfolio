@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="70" y1="25" x2="560" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#211936"/>
+      <stop offset="1" stop-color="#755BC0"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="353" y1="81" x2="531" y2="277" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E8DFFF"/>
+      <stop offset="1" stop-color="#A991F4"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h640v360H0z"/>
+  <circle cx="512" cy="54" r="104" fill="#A991F4" opacity=".12"/>
+  <circle cx="84" cy="332" r="136" fill="#C7F269" opacity=".1"/>
+  <rect x="52" y="43" width="536" height="274" rx="18" fill="#F8F6F2"/>
+  <path fill="#EEEAF5" d="M52 61a18 18 0 0 1 18-18h500a18 18 0 0 1 18 18v25H52V61Z"/>
+  <circle cx="74" cy="65" r="4" fill="#D5869B"/>
+  <circle cx="90" cy="65" r="4" fill="#E3B45A"/>
+  <circle cx="106" cy="65" r="4" fill="#82B790"/>
+  <rect x="72" y="111" width="162" height="14" rx="7" fill="#211936"/>
+  <rect x="72" y="137" width="226" height="7" rx="3.5" fill="#B9B3C4"/>
+  <rect x="72" y="153" width="194" height="7" rx="3.5" fill="#D5D0DC"/>
+  <rect x="72" y="187" width="184" height="67" rx="10" fill="#FFFFFF"/>
+  <circle cx="104" cy="220" r="15" fill="#DCD0FA"/>
+  <path d="M99 220h10m-5-5v10" stroke="#6D55B2" stroke-width="2" stroke-linecap="round"/>
+  <rect x="128" y="207" width="99" height="7" rx="3.5" fill="#383246"/>
+  <rect x="128" y="223" width="69" height="6" rx="3" fill="#B9B3C4"/>
+  <rect x="72" y="266" width="90" height="22" rx="11" fill="#C7F269"/>
+  <path d="M179 276h80" stroke="#D5D0DC" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="462" cy="188" r="85" fill="url(#glow)" opacity=".95"/>
+  <circle cx="462" cy="188" r="61" stroke="#FFF" stroke-opacity=".8" stroke-width="1.5"/>
+  <circle cx="462" cy="188" r="39" stroke="#FFF" stroke-opacity=".75" stroke-width="1.5"/>
+  <circle cx="462" cy="188" r="16" fill="#C7F269"/>
+  <circle cx="462" cy="188" r="6" fill="#211936"/>
+  <circle cx="518" cy="139" r="6" fill="#FFF"/>
+  <circle cx="405" cy="224" r="5" fill="#C7F269"/>
+  <circle cx="483" cy="260" r="4" fill="#FFF"/>
+  <path d="M394 188h-19m174 0h-19M462 113V96m0 184v-17" stroke="#FFF" stroke-opacity=".75" stroke-width="2" stroke-linecap="round"/>
+  <text x="400" y="306" fill="#F8F6F2" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">MATCH WITH MEANING</text>
+</svg>
